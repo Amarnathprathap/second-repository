@@ -1,1 +1,1 @@
-# second-repository
+# main-repository
